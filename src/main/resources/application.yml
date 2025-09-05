@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Examplev1
+
+server:
+  port: 8082
+
+  servlet:
+    context-path: /bootcamp
